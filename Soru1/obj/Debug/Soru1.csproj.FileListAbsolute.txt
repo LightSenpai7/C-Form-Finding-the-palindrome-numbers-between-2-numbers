@@ -1,0 +1,11 @@
+C:\Users\Sony7\source\repos\Soru1\Soru1\bin\Debug\Soru1.exe.config
+C:\Users\Sony7\source\repos\Soru1\Soru1\bin\Debug\Soru1.exe
+C:\Users\Sony7\source\repos\Soru1\Soru1\bin\Debug\Soru1.pdb
+C:\Users\Sony7\source\repos\Soru1\Soru1\obj\Debug\Soru1.csproj.AssemblyReference.cache
+C:\Users\Sony7\source\repos\Soru1\Soru1\obj\Debug\Soru1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sony7\source\repos\Soru1\Soru1\obj\Debug\Soru1.Form1.resources
+C:\Users\Sony7\source\repos\Soru1\Soru1\obj\Debug\Soru1.Properties.Resources.resources
+C:\Users\Sony7\source\repos\Soru1\Soru1\obj\Debug\Soru1.csproj.GenerateResource.cache
+C:\Users\Sony7\source\repos\Soru1\Soru1\obj\Debug\Soru1.csproj.CoreCompileInputs.cache
+C:\Users\Sony7\source\repos\Soru1\Soru1\obj\Debug\Soru1.exe
+C:\Users\Sony7\source\repos\Soru1\Soru1\obj\Debug\Soru1.pdb
